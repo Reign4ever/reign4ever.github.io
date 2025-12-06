@@ -17,7 +17,7 @@ h1 {
 }
 .navbar a{
     color: black;
-    text-decoration; text-underline-position:above;
+    text-decoration; none:above;
     padding: 15px;
     display: block;
     text-align: right;
